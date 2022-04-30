@@ -1,0 +1,5 @@
+.picture{
+    position: absolute;
+    transition: all;
+    transform: translate(125px, 0);
+}
